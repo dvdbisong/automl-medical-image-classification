@@ -19,5 +19,5 @@ The dataset contains:
 The dataset is hosted on Kaggle and can be accessed at <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Chest X-Ray Images (Pneumonia).</a>
 
 ## Sample Images
-<img src="https://marlin-prod.literatumonline.com/cms/attachment/62fab792-cc14-41b8-a1ba-260c84ffcd8e/figs6.jpg" alt="examples-of-chest-X-Rays-in-patients-with-pneumonia">
+<img src="chest-x-ray-samples.jpg" alt="examples-of-chest-X-Rays-in-patients-with-pneumonia">
 The normal chest X-ray (left panel) shows clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse "interstitial" pattern in both lungs. (Source: Kermany, D. S., Goldbaum M., et al. 2018. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
