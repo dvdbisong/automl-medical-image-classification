@@ -6,7 +6,7 @@
 |-|-|
 |__Title__| Google Cloud AutoML Vision for Medical Image Classification 
 |__Author__ | __Ekaba Bisong__ <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer
-|__Website__ | <a href="https://ekababisong.org/working-with-keras-gcp/">https://ekababisong.org/working-with-keras-gcp/</a>
+|__Website__ | <a href="https://ekababisong.org/automl-medical-classification/">https://ekababisong.org/automl-medical-classification/</a>
 
 Google Cloud AutoML Vision simplifies the creation of custom vision models for image recognition use-cases. The concepts of neural architecture search and transfer learning are used under the hood to find the best network architecture and the optimal hyperparameter configuration that minimizes the loss function of the model. This project uses Google Cloud AutoML Vision to develop an end-to-end medical image classification model for Pneumonia Detection using Chest X-Ray Images.
 
